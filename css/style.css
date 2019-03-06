@@ -1,0 +1,26 @@
+img{
+    width: 100%;
+}
+.item_min{
+    max-width: 100px;
+}
+.item_img_min{
+    display: flex;
+    justify-content: space-evenly;
+}
+.item_img_max{
+    height: 300px;
+}
+#item_max{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.single_item_card h1 a{
+    font-size: 36px;
+    text-decoration: none;
+    color: #2d2d2d;
+}
+.item_img_min .active{
+    background: #ccc5;
+}
