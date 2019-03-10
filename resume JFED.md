@@ -34,4 +34,4 @@ Duration: December,2018 – June,2019
      Date of Birth: September 15, 1992  
   Level of English: Advanced  
     **<h3>Links to recent projects</h3>**  
-      (http://file:///C:/Users/User/Desktop/lessons/lesson%20friday%2004-03-19/index.html/)
+      (file:///C:/Users/User/Desktop/lessons/lesson%20friday%2004-03-19/index.html)
